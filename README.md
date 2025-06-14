@@ -25,6 +25,7 @@ A local, LLM-powered code generation app**(Codelama-PersonalPrompt2Code),** that
 - Python (3.10+)
 
 **📦 Installation**
+
 **1. Clone the repo**
 ```bash```
 git clone https://github.com/your-username/your-repo-name.git
